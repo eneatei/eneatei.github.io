@@ -4,7 +4,7 @@
 }
 
 .bg-body-rosa {
-  background-color: #f094ae;
+  background-color: lightgrey;
 }
 
 .hola {
@@ -16,7 +16,7 @@
   font-family: "Cormorant Garamond", serif;
   font-size: 2.5em;
   font-weight: 800;
-  color: #f094ae;
+  color: black;
   padding: 10px 0 10px 0;
 }
 
